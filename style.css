@@ -52,6 +52,8 @@ body {
 
 .card.active h3 {
     opacity: 1;
+    transition-delay: 0.6s;
+    transition: 0.5s;
 }
 
 
